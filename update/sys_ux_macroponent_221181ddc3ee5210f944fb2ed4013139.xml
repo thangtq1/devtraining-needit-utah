@@ -2296,7 +2296,7 @@
     "version": "3.0.0"
 }</layout>
         <macroponent_dependencies/>
-        <name>NeedIt Admin home</name>
+        <name>NeedIt User home</name>
         <output_prop_mapping/>
         <props>[]</props>
         <required_translations>[ {
@@ -2332,16 +2332,16 @@
         <state_properties/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-12-13 04:27:03</sys_created_on>
-        <sys_id>c869db7bc3d21210f944fb2ed401314e</sys_id>
-        <sys_mod_count>40</sys_mod_count>
-        <sys_name>NeedIt Admin home</sys_name>
+        <sys_created_on>2024-12-17 09:12:39</sys_created_on>
+        <sys_id>221181ddc3ee5210f944fb2ed4013139</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt User home</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ux_macroponent_c869db7bc3d21210f944fb2ed401314e</sys_update_name>
+        <sys_update_name>sys_ux_macroponent_221181ddc3ee5210f944fb2ed4013139</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-17 09:11:37</sys_updated_on>
+        <sys_updated_on>2024-12-17 09:12:40</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=c869db7bc3d21210f944fb2ed401314e"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=221181ddc3ee5210f944fb2ed4013139"/>
 </record_update>
